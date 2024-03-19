@@ -7,8 +7,8 @@ format longE
 
 
   Authors:
-  Mario De Florio - PhD Candidate, The University of Arizona
-  Enrico Schiassi - PhD Candidate, The University of Arizona
+  Dr. Mario De Florio - Brown University
+  Dr. Enrico Schiassi - University of Bologna
   Matthew Frankel - PhD Candidate, The University of Texas at Austin  
 %}
 %--------------------------------------------------------------------------
